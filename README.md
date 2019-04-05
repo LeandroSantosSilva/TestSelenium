@@ -1,4 +1,4 @@
-#Entenda e implemente
+Entenda e implemente
 
 1) Uma empresa de filmes, contratou um sistema da sua empresa - considerando que existe a
 necessidade de cadastrar diretor (nome, nascimento) e filmes (nome, ano de lançamento)
@@ -18,3 +18,5 @@ Após isso, envie um e-mail com seu nome e link do git onde o está o projeto.
 - Boas práticas de automação
 - Tratamento de erros
 - Validações
+
+Observações as referências selenium, Junit e jayway já estão no projeto, o .exe do Chrome Driver está na raiz do projeto, está com a versão 72.0.3626.69 se precisar alterar fique a vontade, após baixar o projeto não esqueça de mudar o diretório do .exe dentro da classe.
